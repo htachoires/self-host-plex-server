@@ -1,3 +1,9 @@
 ﻿# Self-hosted plex server
 
-TODO
+Setup
+
+Prowlarr
+
+- Go to Settings > Apps and add Radarr and Sonarr Applications
+- Go to Settings > Download Clients and add Torrent Blackhole
+
